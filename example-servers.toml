@@ -1,0 +1,11 @@
+[[servers]]
+name = "server-01"
+ip = "127.0.0.1:2221"
+username = "username"
+os_type = "linux"
+
+[[servers]]
+name = "server-02"
+ip = "172.161.145.62"
+username = "username"
+os_type = "windows"

@@ -1,0 +1,5 @@
+/tests/
+/.claude/
+/target/
+/servers.toml
+/readme-privat.md
